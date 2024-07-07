@@ -7,5 +7,6 @@ This is a test repository to see how open source works..
 
 public static void main(){
 System.out.println("Hello world");
+System.out.println("Cotributed by Kush kushwaha");
 }
 ```
